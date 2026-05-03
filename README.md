@@ -14,3 +14,4 @@ This project contains basic automation scripts for Linux.
 ```bash
 chmod +x script.sh
 ./script.sh
+# update
