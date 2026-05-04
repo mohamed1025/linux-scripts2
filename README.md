@@ -1,21 +1,20 @@
-# Linux Scripts 2
+# 🚀 Linux Scripts - DevOps Mini Project
 
-Simple DevOps practice project using Bash scripts on Linux.
+A practical DevOps project using Bash scripts on Linux for automation, monitoring, and system management.
 
-## 📌 What is this project?
-This project contains basic automation scripts for Linux.
+---
 
-## 🛠️ Scripts included:
-- backup.sh → simple backup script
-- cleanup.sh → system cleanup script
-- monitor.sh → system monitoring script
+## 📌 Overview
 
-## 🚀 How to run:
-```bash
-chmod +x script.sh
-./script.sh
-# update
-## 📊 Features
-- Automated backup script
-- Logs system
-- Organized project structure
+This project demonstrates basic DevOps concepts by automating common system tasks using Bash scripting.
+
+It includes:
+- Backup automation
+- System monitoring
+- Cleanup operations
+- Logging system
+
+---
+
+## 🧱 Project Structure
+
