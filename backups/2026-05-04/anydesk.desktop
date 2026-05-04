@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=AnyDesk
+Comment=Remote Desktop Application
+Exec=anydesk
+Icon=anydesk
+Type=Application
+Categories=Network;

@@ -15,3 +15,7 @@ This project contains basic automation scripts for Linux.
 chmod +x script.sh
 ./script.sh
 # update
+## 📊 Features
+- Automated backup script
+- Logs system
+- Organized project structure
